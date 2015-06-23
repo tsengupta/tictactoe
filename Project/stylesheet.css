@@ -1,3 +1,29 @@
 ﻿*{
+    color: #666666;
+    text-align: center;
+}
+
+#board {
+    width: 354px;
+    height: 354px;
+    background-color: none;
+    border-spacing:0;
+    margin-left: -2px;
+    margin-right: -2px;
+    text-align: center;
+}
+
+td {
+    height: 116px;
+    width: 116px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    border: 2px solid #00ffff;
+    text-transform: uppercase;
+    color: #666666;
+}
+#restart{
+    padding: 5px 15px 5px 15px;
+    margin-top: 10px;
     text-align: center;
 }

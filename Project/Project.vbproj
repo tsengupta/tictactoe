@@ -84,6 +84,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="index.html" />
+    <Content Include="javascript.js" />
     <Content Include="stylesheet.css" />
     <Content Include="Web.config" />
     <Content Include="win.html" />

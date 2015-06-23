@@ -1,0 +1,9 @@
+﻿var a1;
+var a2;
+var a3;
+var b1;
+var b2;
+var b3;
+var c1;
+var c2;
+var c3;
